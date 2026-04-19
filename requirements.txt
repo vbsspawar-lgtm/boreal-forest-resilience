@@ -1,0 +1,16 @@
+numpy
+pandas
+xarray
+matplotlib
+scipy
+statsmodels
+netCDF4
+dask[complete]
+rasterio
+rioxarray
+pyproj
+pyhdf
+bottleneck
+h5netcdf
+jupyter
+notebook
